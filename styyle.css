@@ -1,0 +1,22 @@
+.int{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    border-radius: 5px;
+    background-color:silver;
+}
+.info{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+.pin{
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
